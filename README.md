@@ -20,7 +20,7 @@ Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
   - Fluxo de trabalho e solicitação de pull [Olá, mundo] (https://docs.github.com/pt/get-started/start-your-journey/hello-world)
 
-	- [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - Vídeos 
 
