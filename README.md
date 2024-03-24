@@ -12,13 +12,22 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 
 Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
-- Artigos iniciais na documentação oficial do Gi-Hub
+- Artigos iniciais para usar o Gi-Hub
+
+	- [repositório GitTutorial da @rafaballerini](https://github.com/rafaballerini/GitTutorial)
 
 	- [Comece seu percurso](https://docs.github.com/pt/get-started/start-your-journey)
 
   - Fluxo de trabalho e solicitação de pull [Olá, mundo] (https://docs.github.com/pt/get-started/start-your-journey/hello-world)
 
 	- [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- Vídeos 
+
+	-	[o que é Git e Git-hub por Daniela Ballerini](https://youtu.be/DqTITcMq68k)
+
+	-   [Como usar o Git e Git-Hub por Daniela Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM)
+
 
 ### comandos iniciais
 
