@@ -10,7 +10,13 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 
 ## Usando o git e git-hub
 
-Realizar cadastro na [Plataforma Git-Hub](https://github.com)
+1. Realizar cadastro na [Plataforma Git-Hub](https://github.com).
+
+2. Criar pasta do primeiro projeto no PC (pode ser com o nome da disciplina).
+
+3. Criar repositório no GitHub com o mesmo nome da pasta no PC.
+
+4. Realizar os procedimentos trabalhados em aula.
 
 - Artigos iniciais para usar o Gi-Hub :books: :book: 
 
