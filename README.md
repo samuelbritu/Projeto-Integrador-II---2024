@@ -14,7 +14,7 @@ Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
 - Artigos iniciais para usar o Gi-Hub
 
-	- [repositório GitTutorial da @rafaballerini](https://github.com/rafaballerini/GitTutorial)
+	- [repositório GitTutorial da @github.com/rafaballerini](https://github.com/rafaballerini/GitTutorial)
 
 	- [Comece seu percurso](https://docs.github.com/pt/get-started/start-your-journey)
 
@@ -24,12 +24,12 @@ Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
 - Vídeos 
 
-	-	[o que é Git e Git-hub por Daniela Ballerini](https://youtu.be/DqTITcMq68k)
+	-	[o que é Git e Git-hub por  @github.com/rafaballerini](https://youtu.be/DqTITcMq68k)
 
-	-   [Como usar o Git e Git-Hub por Daniela Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM)
+	-   [Como usar o Git e Git-Hub por  @github.com/rafaballerini](https://www.youtube.com/watch?v=UBAX-13g8OM)
 
 
-### comandos iniciais
+### Comandos iniciais no GitBash
 
 `git init` - Adiciona uma pasta .git com arquivos do versionamento
 
@@ -37,12 +37,8 @@ Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
 `git add` - Encena uma mudança. É a primeira parte de um processo de dois passos para incluir mudanças realizadas
 
-`git add .` para preparar todas as mudanças
-
 `git commit` salva as instâncias no histórico do projeto.
 
-``	'git commit -m "mensagem para o seu commit" ``
-	
 `git status` - mostrar estatos das mudanças
 
 `git branch` - mostrar as ramificações existentes
