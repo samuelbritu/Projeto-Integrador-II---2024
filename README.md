@@ -31,63 +31,63 @@ Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
 ### comandos iniciais
 
-´git init´ - Adiciona uma pasta .git com arquivos do versionamento
+`git init` - Adiciona uma pasta .git com arquivos do versionamento
 
-´git clone´ - Criar uma copia de um projeto que já existe remotamente
+`git clone` - Criar uma copia de um projeto que já existe remotamente
 
-´git add´ - Encena uma mudança. É a primeira parte de um processo de dois passos para incluir mudanças realizadas
+`git add` - Encena uma mudança. É a primeira parte de um processo de dois passos para incluir mudanças realizadas
 
-´git add .´ para preparar todas as mudanças
+`git add .` para preparar todas as mudanças
 
-´git commit´ salva as instâncias no histórico do projeto.
+`git commit` salva as instâncias no histórico do projeto.
 
-´´	'git commit -m "mensagem para o seu commit" ´´ 
+``	'git commit -m "mensagem para o seu commit" ``
 	
-´git status´ - mostrar estatos das mudanças
+`git status` - mostrar estatos das mudanças
 
-´git branch´ - mostrar as ramificações existentes
+`git branch` - mostrar as ramificações existentes
 
-´git merge´ - mescla as ramificações 
+`git merge` - mescla as ramificações 
 
-´git push´ - empurra mudanças, ou seja, atualizar o repositório remoto com as mudanças locais
+`git push` - empurra mudanças, ou seja, atualizar o repositório remoto com as mudanças locais
 
-´git pull´ - Puxa mudanças, ou seja, atualiza o projeto local com as atualizações existentes no repositório remoto. 
+`git pull` - Puxa mudanças, ou seja, atualiza o projeto local com as atualizações existentes no repositório remoto. 
 
 ### Mínimo de comandos que você precisará usar no GitBash
 
 - Primeira vez no projeto
 
-´´ cd /pasta-do-projeto ´´
+`` cd /pasta-do-projeto ``
 
-´´ git add .´´
+`` git add .``
 
-´´ git status´´
+`` git status ``
 
-´´ git commit -m "mensagem do commit" ´´
+`` git commit -m "mensagem do commit" ``
 
-´´ git brach -M main  ´´
+`` git brach -M main  ``
 
 Criar um repositório com o mesmo nome da pasta. 
 
-´´ git remote add origin https://github.com/reuperfil/seuprojeto.git ´´
+`` git remote add origin https://github.com/reuperfil/seuprojeto.git ``
 
-´´ git push -u origin main ´´
+`` git push -u origin main ``
 
 - Modificações, após o projeto já criado no PC e no GitHub
 
-´´ cd /pasta-do-projeto/ ´´
+`` cd /pasta-do-projeto/ ``
 
-´´ git add . ´´
+`` git add . ``
 
-´´ git commit - m "mensagem para identificar commit" ´´
+`` git commit - m "mensagem para identificar commit" ``
 
-´´ git status ´´
+`` git status ``
 
-´´ git merge ´´
+`` git merge ``
 
-´´ git push origin main ´´
+`` git push origin main ``
 
-
+Só pra ver se atualizou 
 
 ## Currículo
 
