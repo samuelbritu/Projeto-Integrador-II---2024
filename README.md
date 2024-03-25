@@ -14,19 +14,19 @@ Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
 - Artigos iniciais para usar o Gi-Hub :books: :book: 
 
-	- [repositório GitTutorial da @github.com/rafaballerini](https://github.com/rafaballerini/GitTutorial)
+	:book: [repositório GitTutorial da @github.com/rafaballerini](https://github.com/rafaballerini/GitTutorial)
 
-	- [Comece seu percurso](https://docs.github.com/pt/get-started/start-your-journey)
+	:book: [Comece seu percurso](https://docs.github.com/pt/get-started/start-your-journey)
+	
+	 :book: [Olá, Mundo: Siga este exercício Hello World para aprender o fluxo de trabalho da solicitação de pull do GitHub.](https://docs.github.com/pt/get-started/start-your-journey/hello-world)
 
-  - Fluxo de trabalho e solicitação de pull [Olá, mundo] (https://docs.github.com/pt/get-started/start-your-journey/hello-world)
-
-  - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+	:book: [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - Vídeos :movie_camera: :film_strip: 
 
-	-	[o que é Git e Git-hub por  @github.com/rafaballerini](https://youtu.be/DqTITcMq68k)
+	:film_strip: [o que é Git e Git-hub por  @github.com/rafaballerini](https://youtu.be/DqTITcMq68k)
 
-	-   [Como usar o Git e Git-Hub por  @github.com/rafaballerini](https://www.youtube.com/watch?v=UBAX-13g8OM)
+	:film_strip: [Como usar o Git e Git-Hub por  @github.com/rafaballerini](https://www.youtube.com/watch?v=UBAX-13g8OM)
 
 
 ### Comandos iniciais no GitBash
