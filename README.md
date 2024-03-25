@@ -5,6 +5,7 @@ Este projeto está vinculado à disciplina Projeto Integrador II ofertada ao Cur
 Ele estará disponível para que os alunos possam acessar os materiais e atividades desenvolvidos ao longo da disciplina.
 
 
+
 # Atividades desenvolvidas
 
 
@@ -53,11 +54,13 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 
 `git merge` - mescla as ramificações 
 
+`git remote` - gerenciar projetos remotos. 
+
 `git push` - empurra mudanças, ou seja, atualizar o repositório remoto com as mudanças locais
 
 `git pull` - Puxa mudanças, ou seja, atualiza o projeto local com as atualizações existentes no repositório remoto. 
 
-### Mínimo de comandos que você precisará usar no GitBash
+### Comandos mínimos no GitBash
 
 #### Primeira vez no projeto
 
