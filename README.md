@@ -110,4 +110,5 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	3.1 Criar um Currículo em Markdown
 
  	3.2 Veja o exemplo no arquivo ...
+   
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
