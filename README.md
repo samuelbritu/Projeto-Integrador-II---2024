@@ -12,7 +12,7 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 
 Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
-- Artigos iniciais para usar o Gi-Hub
+- Artigos iniciais para usar o Gi-Hub :books: :book: 
 
 	- [repositório GitTutorial da @github.com/rafaballerini](https://github.com/rafaballerini/GitTutorial)
 
@@ -22,7 +22,7 @@ Realizar cadastro na [Plataforma Git-Hub](https://github.com)
 
   - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- Vídeos 
+- Vídeos :movie_camera: :film_strip: 
 
 	-	[o que é Git e Git-hub por  @github.com/rafaballerini](https://youtu.be/DqTITcMq68k)
 
