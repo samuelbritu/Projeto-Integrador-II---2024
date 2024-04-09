@@ -115,11 +115,16 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 		a. Informações do projeto:
 			Este projeto faz parte da disciplna tal
 			
-		b. Informações
+		b. Informações mínimas sobre currículo (conforme modelo enviado)
 		
 		- links do lattes e do linkedin 
 
-   
+		- Formação acadêmica
+		
+		- Formação complementar
+		
+			- certificados
+			
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
 
