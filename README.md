@@ -123,7 +123,7 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 		
 	 - Formação complementar
 		
-	 - certificados
+	  - certificados
 			
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
