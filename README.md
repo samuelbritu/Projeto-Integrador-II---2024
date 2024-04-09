@@ -112,18 +112,18 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 
 	3.1 no README.md
 		
-		a. Informações do projeto:
+	a. Informações do projeto:
 			Este projeto faz parte da disciplna tal
 			
-		b. Informações mínimas sobre currículo (conforme modelo enviado)
+    b. Informações mínimas sobre currículo (conforme modelo enviado)
 		
-		- links do lattes e do linkedin 
+	 - links do lattes e do linkedin 
 
-		- Formação acadêmica
+	 - Formação acadêmica
 		
-		- Formação complementar
+	 - Formação complementar
 		
-			- certificados
+	 - certificados
 			
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
