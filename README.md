@@ -1,6 +1,12 @@
 
-![Instituto Federal do Amazonas - CEIRU](/assents/images/)
+
 # Projeto-Integrador-II---2024
+
+
+![Instituto Federal do Amazonas - **Campus** Eirunepé](    Projeto-Integrador-II---2024
+
+/ifam-logo.png)
+
 
 Este projeto está vinculado à disciplina Projeto Integrador II ofertada ao Curso Técnico de Nível Médio em Informática do IFAM - Campus Eirunepé , no ano de 2024.
 
