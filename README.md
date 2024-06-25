@@ -1,3 +1,5 @@
+
+![Instituto Federal do Amazonas - CEIRU](/assents/images/)
 # Projeto-Integrador-II---2024
 
 Este projeto está vinculado à disciplina Projeto Integrador II ofertada ao Curso Técnico de Nível Médio em Informática do IFAM - Campus Eirunepé , no ano de 2024.
@@ -27,15 +29,21 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 
 	:book: [Comece seu percurso](https://docs.github.com/pt/get-started/start-your-journey)
 	
-	 :book: [Olá, Mundo: Siga este exercício Hello World para aprender o fluxo de trabalho da solicitação de pull do GitHub.](https://docs.github.com/pt/get-started/start-your-journey/hello-world)
+	:book: [Olá, Mundo: Siga este exercício Hello World para aprender o fluxo de trabalho da solicitação de pull do GitHub.](https://docs.github.com/pt/get-started/start-your-journey/hello-world)
 
 	:book: [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - Vídeos :movie_camera: :film_strip: 
 
-	:film_strip: [o que é Git e Git-hub por  @github.com/rafaballerini](https://youtu.be/DqTITcMq68k)
+	:film_strip: [O que é Git e Git-hub por  @github.com/rafaballerini](https://youtu.be/DqTITcMq68k)
 
 	:film_strip: [Como usar o Git e Git-Hub por  @github.com/rafaballerini](https://www.youtube.com/watch?v=UBAX-13g8OM)
+	
+	:film_strip: [Entendendo o GIT | (não é um tutorial!) por @Akitando ](https://www.youtube.com/watch?v=6Czd1Yetaac&pp=ygUEZ2l0IA%3D%3D)
+
+
+
+
 
 
 ### Comandos iniciais no GitBash
@@ -65,6 +73,8 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 #### Primeira vez no projeto
 
 `` cd /pasta-do-projeto ``
+
+`` git init ``
 
 `` git add .``
 
@@ -98,7 +108,7 @@ Criar um repositório com o mesmo nome da pasta.
 
 
 
-## Currículo
+## Atividade avaliativa: Criar Currículo
 
 1. Currículo acadêmico
 
@@ -124,12 +134,23 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	 - Formação complementar
 		
 		- certificados
-			
+
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
+## Atividade avaliativa 
 
-# Avaliações
+1. Criar repositório Wello Word pelo GitHub
+
+	1.2 Seguir o tutorial [Olá, Mundo](https://docs.github.com/pt/get-started/start-your-journey/hello-world) para criar um projeto como projeto Olá, Mundo, como descrito.
+
+# Deadlines
 
 ## Primeira etapa 
 
 	1. Data de entrega dos projetos: 16/04
+
+## Segunda etapa
+
+	1. Completar e corrigir erros da atividade anterior:
+
+	2. Finalizar atividade GitFlow iniciada em aula:
