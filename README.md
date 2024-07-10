@@ -45,7 +45,11 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 	
 	:film_strip: [Entendendo o GIT | (não é um tutorial!) por @Akitando ](https://www.youtube.com/watch?v=6Czd1Yetaac&pp=ygUEZ2l0IA%3D%3D)
 
+## Orientações
 
+### Sobre atividades avaliativas
+
+Em toda e qualquer atividade avaliativa deve-se indicar referências e ferramentas utilizadas. Não precisa ser nas normas da ABNT. Pode-se, por exemplo, adicionar ao README de cada projeto, um tópico indicando as ferramentas utilizadas, INCLUSIVE ferramentas de IA, se for o caso.
 
 
 
@@ -124,7 +128,7 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 
 3. Criar um repositório no PC e Git-hub sobre o seu currículo.
 
-	3.1 no README.md
+	3.1 no README.md 
 		
 	a. Informações do projeto:
 			Este projeto faz parte da disciplna tal
@@ -139,6 +143,7 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 		
 		- certificados
 
+> [Veja o aquivo de exemplo ] (modelo.md)
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
 ## Atividade avaliativa 
