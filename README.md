@@ -143,7 +143,8 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 		
 		- certificados
 
-> [Veja o aquivo de exemplo ] (modelo.md)
+> [Veja o aquivo de exemplo ](modelo.md)
+
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
 ## Atividade avaliativa 
