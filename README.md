@@ -153,6 +153,22 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 
 	1.2 Seguir o tutorial [Olá, Mundo](https://docs.github.com/pt/get-started/start-your-journey/hello-world) para criar um projeto como projeto Olá, Mundo, como descrito.
 
+2. Criar repositório exemplos de arquivos do Office 
+
+	2.1 Criar uma planilha listando um conjunto de equipamentos do local de seu estágio, ao menos 5 equipamenos;
+	2.2 Estabelecer uma relação de consumo de usando as seguintes colunas:
+	2.2.1 Equipamentos
+    2.2.2 Potência (W)
+	2.2.3 Comsumo diário (h)
+	2.2.4 Comsumo mensal (h)
+    2.2.5 Custo do consumo mensal (R$)
+	2.2.6 Percentagem do consumo
+	2.2.7 LINHA ou CÉLULAS com valores totais.
+    2.3 Criar gráfico em pizza exibindo porcentagens de uso por equipamento.
+	2.4 Criar slide de apresentação;
+	2.5 Criar arquivo de text.
+	2.6 Todos os arquivos trararão do mesmo tema.
+	
 # Deadlines
 
 ## Primeira etapa 
@@ -161,6 +177,30 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 
 ## Segunda etapa
 
+Data de entrega: 04 de setembro
+
 	1. Completar e corrigir erros da atividade anterior:
 
-	2. Finalizar atividade GitFlow iniciada em aula:
+	2. Finalizar atividade GitFlow iniciada em aula - Tutorial 'Olá Mundo';
+
+    3. Criar repositório: Projeto Exemplos Office contendo:
+		   
+		   3.1 Planilha
+		   3.2 gráfico de pizza (png ou jpeg)
+		   3.3 slide
+           3.4 docx
+		   3.5 README.md
+		   
+			   inserir figura no README 
+			   
+			   '![Texto Alternativo](URL_da_Imagem) '
+			   
+			   ou 
+			   
+			   '<img src="URL_da_Imagem" alt="Texto Alternativo">'
+
+
+
+
+
+			   
