@@ -3,7 +3,7 @@
 # Projeto-Integrador-II---2024
 
 
-> <img src="ifam-logo.png" alt="Minha Imagem" width="10" > Instituto Federal do Amazonas - *Campus* Eirunepé 
+> <img src="ifam-logo.png" alt="Minha Imagem" width="20" > Instituto Federal do Amazonas - *Campus* Eirunepé 
 
 
 Este projeto está vinculado à disciplina Projeto Integrador II ofertada ao Curso Técnico de Nível Médio em Informática do IFAM - Campus Eirunepé , no ano de 2024.
@@ -45,7 +45,7 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 	
 	:film_strip: [Entendendo o GIT | (não é um tutorial!) por @Akitando ](https://www.youtube.com/watch?v=6Czd1Yetaac&pp=ygUEZ2l0IA%3D%3D)
 
-## Orientações
+## Orientações iniciais
 
 ### Sobre atividades avaliativas
 
@@ -143,8 +143,9 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 		
 		- certificados
 
-> [Veja o aquivo de exemplo ](modelo.md)
+			> [Veja o aquivo de exemplo ](modelo.md)
 
+	
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
 ## Atividade avaliativa 
@@ -156,28 +157,41 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 2. Criar repositório exemplos de arquivos do Office 
 
 	2.1 Criar uma planilha listando um conjunto de equipamentos do local de seu estágio, ao menos 5 equipamenos;
+	
 	2.2 Estabelecer uma relação de consumo de usando as seguintes colunas:
-	2.2.1 Equipamentos
-    2.2.2 Potência (W)
-	2.2.3 Comsumo diário (h)
-	2.2.4 Comsumo mensal (h)
-    2.2.5 Custo do consumo mensal (R$)
-	2.2.6 Percentagem do consumo
-	2.2.7 LINHA ou CÉLULAS com valores totais.
+	
+		2.2.1 Equipamentos
+	
+		2.2.2 Potência (W)
+	
+		2.2.3 Comsumo diário (h)
+	
+		2.2.4 Comsumo mensal (h)
+	
+		2.2.5 Custo do consumo mensal (R$)
+	
+		2.2.6 Percentagem do consumo
+	
+		2.2.7 LINHA ou CÉLULAS com valores totais.
+	
     2.3 Criar gráfico em pizza exibindo porcentagens de uso por equipamento.
+	
 	2.4 Criar slide de apresentação;
+	
 	2.5 Criar arquivo de text.
+	
 	2.6 Todos os arquivos trararão do mesmo tema.
+	
 	
 # Deadlines
 
 ## Primeira etapa 
 
-	1. Data de entrega dos projetos: 16/04
+	-  Data de entrega: 16/04
 
 ## Segunda etapa
 
-Data de entrega: 04 de setembro
+	-  Data de entrega: 04 de setembro
 
 	1. Completar e corrigir erros da atividade anterior:
 
