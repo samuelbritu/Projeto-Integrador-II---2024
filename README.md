@@ -160,19 +160,19 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	
 	2.2 Estabelecer uma relação de consumo de usando as seguintes colunas:
 	
-		2.2.1 Equipamentos
+	 2.2.1 Equipamentos
 	
-		2.2.2 Potência (W)
+	 2.2.2 Potência (W)
 	
-		2.2.3 Comsumo diário (h)
+	 2.2.3 Comsumo diário (h)
 	
-		2.2.4 Comsumo mensal (h)
+	 2.2.4 Comsumo mensal (h)
 	
-		2.2.5 Custo do consumo mensal (R$)
+	 2.2.5 Custo do consumo mensal (R$)
 	
-		2.2.6 Percentagem do consumo
+	 2.2.6 Percentagem do consumo
 	
-		2.2.7 LINHA ou CÉLULAS com valores totais.
+	 2.2.7 LINHA ou CÉLULAS com valores totais.
 	
     2.3 Criar gráfico em pizza exibindo porcentagens de uso por equipamento.
 	
@@ -187,29 +187,29 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 
 ## Primeira etapa 
 
-	-  Data de entrega: 16/04
+> Data de entrega: 16/04
 
 ## Segunda etapa
 
-	-  Data de entrega: 04 de setembro
+> Data de entrega: 04 de setembro
 
-	1. Completar e corrigir erros da atividade anterior:
+1. Completar e corrigir erros da atividade anterior:
 
-	2. Finalizar atividade GitFlow iniciada em aula - Tutorial 'Olá Mundo';
+2. Finalizar atividade GitFlow iniciada em aula - Tutorial 'Olá Mundo';
 
-    3. Criar repositório: Projeto Exemplos Office contendo:
+3. Criar repositório: Projeto Exemplos Office contendo:
 		   
-		   3.1 Planilha
-		   3.2 gráfico de pizza (png ou jpeg)
-		   3.3 slide
-           3.4 docx
-		   3.5 README.md
+   3.1 Planilha
+   3.2 gráfico de pizza (png ou jpeg)
+   3.3 slide
+   3.4 docx
+   3.5 README.md
 		   
-			   inserir figura no README 
+>			   inserir figura no README 
 			   
 			   '![Texto Alternativo](URL_da_Imagem) '
 			   
-			   ou 
+>			   ou 
 			   
 			   '<img src="URL_da_Imagem" alt="Texto Alternativo">'
 
