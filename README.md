@@ -191,7 +191,7 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 
 ## Segunda etapa
 
-> Data de entrega: 04 de setembro
+ Data de entrega: 04 de setembro
 
 1. Completar e corrigir erros da atividade anterior:
 
@@ -205,13 +205,13 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
    3.4 docx
    3.5 README.md
 		   
->			   inserir figura no README 
+inserir figura no README 
 			   
-			   '![Texto Alternativo](URL_da_Imagem) '
+'![Texto Alternativo](URL_da_Imagem) '
 			   
->			   ou 
+ou 
 			   
-			   '<img src="URL_da_Imagem" alt="Texto Alternativo">'
+'<img src="URL_da_Imagem" alt="Texto Alternativo">'
 
 
 
