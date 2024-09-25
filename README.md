@@ -11,10 +11,10 @@ Este projeto está vinculado à disciplina Projeto Integrador II ofertada ao Cur
 Ele estará disponível para que os alunos possam acessar os materiais e atividades desenvolvidos ao longo da disciplina.
 
 
+# Orientações iniciais
+## Sobre atividades avaliativas
 
-# Atividades desenvolvidas
-
-
+Em toda e qualquer atividade avaliativa deve-se indicar referências e ferramentas utilizadas. Não precisa ser nas normas da ABNT. Pode-se, por exemplo, adicionar ao README de cada projeto, um tópico indicando as ferramentas utilizadas, INCLUSIVE ferramentas de IA, se for o caso.
 ## Usando o git e git-hub
 
 1. Realizar cadastro na [Plataforma Git-Hub](https://github.com).
@@ -45,16 +45,8 @@ Ele estará disponível para que os alunos possam acessar os materiais e ativida
 	
 	:film_strip: [Entendendo o GIT | (não é um tutorial!) por @Akitando ](https://www.youtube.com/watch?v=6Czd1Yetaac&pp=ygUEZ2l0IA%3D%3D)
 
-## Orientações iniciais
 
-### Sobre atividades avaliativas
-
-Em toda e qualquer atividade avaliativa deve-se indicar referências e ferramentas utilizadas. Não precisa ser nas normas da ABNT. Pode-se, por exemplo, adicionar ao README de cada projeto, um tópico indicando as ferramentas utilizadas, INCLUSIVE ferramentas de IA, se for o caso.
-
-
-
-
-### Comandos iniciais no GitBash
+## Comandos iniciais no GitBash
 
 `git init` - Adiciona uma pasta .git com arquivos do versionamento
 
@@ -76,9 +68,9 @@ Em toda e qualquer atividade avaliativa deve-se indicar referências e ferrament
 
 `git pull` - Puxa mudanças, ou seja, atualiza o projeto local com as atualizações existentes no repositório remoto. 
 
-### Comandos mínimos no GitBash
+## Comandos mínimos no GitBash
 
-#### Primeira vez no projeto
+### Primeira vez no projeto
 
 `` cd /pasta-do-projeto ``
 
@@ -98,7 +90,7 @@ Criar um repositório com o mesmo nome da pasta.
 
 `` git push -u origin main ``
 
-#### Modificações, após o projeto já criado no PC e no GitHub - PUSH 
+### Modificações, após o projeto já criado no PC e no GitHub - PUSH 
 
 `` cd /pasta-do-projeto/ ``
 
@@ -112,9 +104,9 @@ Criar um repositório com o mesmo nome da pasta.
 
 `` git push origin main ``
 
-#### Atualizar projeto no PC a partir de alterações no repositório remoto - PULL
+### Atualizar projeto no PC a partir de alterações no repositório remoto - PULL
 
-
+# Atividades
 
 ## Atividade I - Criar Currículo
 
@@ -152,7 +144,7 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 
 1. Criar repositório Wello Word pelo GitHub
 
-	1.2 Seguir o tutorial [Olá, Mundo](https://docs.github.com/pt/get-started/start-your-journey/hello-world) para criar um projeto como projeto Olá, Mundo, como descrito.
+	1.2 Seguir o tutorial [Olá, Mundo](https://docs.github.com/pt/get-started/start-your-journey/hello-world) para criar um projeto como projeto _Olá, Mundo_, como descrito.
 
 ## Atividade III - Criar repositório com exemplos de arquivos do Office
 
@@ -185,21 +177,21 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	2.6 Todos os arquivos trararão do mesmo tema.
 
 
-> resumo da atividade III:
+- resumo da atividade III:
 
-3. Criar repositório: Projeto Exemplos Office contendo:
+O Repositório deve conter:
 		   
-   3.1 Planilha
-   3.2 gráfico de pizza (png ou jpeg)
-   3.3 slide
-   3.4 docx
-   3.5 README.md
+1 Planilha
+2 gráfico de pizza (png ou jpeg)
+3 slide
+4 docx
+5 README.md
 		   
 inserir figura no README 
 
-'''
+```
 ![Texto Alternativo](URL_da_Imagem)
-'''
+```
 
 ou 
 			   
@@ -216,28 +208,28 @@ ou
 4.3 Envie um pull request ao proprietário do projeto (este).
 
 
-# Projetos dos alunos
+## Projetos dos alunos
 
-## ALINE XAVIER MORAES
-## ANA LUIZA CARANHA DA SILVA
-## CINDY LAUREN DE SOUZA FEITOZA
-## DANIELE INACIO LOPES
-## HERBERT NATAN ALVES DE SOUZA
-## JOAO ANTONIO FAUSTINO DE BARROS
-## JOAO GABRIEL CAVALCANTE LEITAO
-## JOAO LUCAS CUNHA DA COSTA
-## JUNIOR ALMEIDA DAS CHAGAS
-## LAISSA ALCANTARA GOMES
-## LARIANE PEREIRA DE ARAUJO
-## LEOSMARA COLAÇO MINELVINO
-## MARIA ITAUANA DE ALMEIDA SARAIVA
-## MURILO GABRIEL DA SILVA ARAUJO
-## OLIVER BRYAN CAVALCANTE GUILHERME
-## PEDRO RENNECK DE SOUZA
-## RILARY CAVALCANTE DE SOUZA
-## RITA DE CASSIA ALVES GOIANO
-## SAMUEL BRITO DE LIMA CARDOSO
-## THALIEL DA SILVA XAVIER
-## WESLEY KAINAN DE SOUZA OLIVEIRA
-## YASMIM LUCAS BARBOSA
+### ALINE XAVIER MORAES
+### ANA LUIZA CARANHA DA SILVA
+### CINDY LAUREN DE SOUZA FEITOZA
+### DANIELE INACIO LOPES
+### HERBERT NATAN ALVES DE SOUZA
+### JOAO ANTONIO FAUSTINO DE BARROS
+### JOAO GABRIEL CAVALCANTE LEITAO
+### JOAO LUCAS CUNHA DA COSTA
+### JUNIOR ALMEIDA DAS CHAGAS
+### LAISSA ALCANTARA GOMES
+### LARIANE PEREIRA DE ARAUJO
+### LEOSMARA COLAÇO MINELVINO
+### MARIA ITAUANA DE ALMEIDA SARAIVA
+### MURILO GABRIEL DA SILVA ARAUJO
+### OLIVER BRYAN CAVALCANTE GUILHERME
+### PEDRO RENNECK DE SOUZA
+### RILARY CAVALCANTE DE SOUZA
+### RITA DE CASSIA ALVES GOIANO
+### SAMUEL BRITO DE LIMA CARDOSO
+### THALIEL DA SILVA XAVIER
+### WESLEY KAINAN DE SOUZA OLIVEIRA
+### YASMIM LUCAS BARBOSA
 			   
