@@ -244,6 +244,9 @@ ou
 ### MARIA ITAUANA DE ALMEIDA SARAIVA
 ### MURILO GABRIEL DA SILVA ARAUJO
 ### OLIVER BRYAN CAVALCANTE GUILHERME
+[AtividadeI](https://github.com/OliverBryanCavalcante/projeto-integrador-2-)
+[AtvidadeII](https://github.com/OliverBryanCavalcante/hello-word-)
+[AtividadeIII](https://github.com/OliverBryanCavalcante/Exemplos-do-Office)
 ### PEDRO RENNECK DE SOUZA
 ### RILARY CAVALCANTE DE SOUZA
 ### RITA DE CASSIA ALVES GOIANO
