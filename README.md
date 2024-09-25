@@ -177,17 +177,18 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	2.6 Todos os arquivos trararão do mesmo tema.
 
 
-- resumo da atividade III:
+### resumo da atividade III:
 
 O Repositório deve conter:
 		   
-1 Planilha
-2 gráfico de pizza (png ou jpeg)
-3 slide
-4 docx
-5 README.md
-		   
-inserir figura no README 
+1. Planilha;
+2. gráfico de pizza (png ou jpeg);
+3. slide;
+4. docx;
+5. README.md
+6. Inserir figura no README
+
+
 
 ```
 ![Texto Alternativo](URL_da_Imagem)
