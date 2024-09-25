@@ -216,11 +216,26 @@ ou
 [Atividade I](https://github.com/4L1N3X4V13R/ProjetoIntegrador2.git)
 
 ### ANA LUIZA CARANHA DA SILVA
+
+[Atividade I](https://github.com/analuuuzz/ProjetoIntegrador2.git)
+
+[Atividade II](https://github.com/analuuuzz/hello-world.git)
+
 ### CINDY LAUREN DE SOUZA FEITOZA
+
+[Atividade I]()
+[Atividade II](https://github.com/analuuuzz/hello-world.git)
+[Atividade III](https://github.com/sondyloren/PIjojovsq.git)
+
 ### DANIELE INACIO LOPES
+
+[Atividade I]()
 ### HERBERT NATAN ALVES DE SOUZA
+[Atividade I](https://github.com/herbertnatan/ProjetoIntegrador2.git)
+
 ### JOAO ANTONIO FAUSTINO DE BARROS
 ### JOAO GABRIEL CAVALCANTE LEITAO
+[Atividade II](https://github.com/GabrielCavalcante123/hello-world.git)
 ### JOAO LUCAS CUNHA DA COSTA
 ### JUNIOR ALMEIDA DAS CHAGAS
 ### LAISSA ALCANTARA GOMES
@@ -234,6 +249,12 @@ ou
 ### RITA DE CASSIA ALVES GOIANO
 ### SAMUEL BRITO DE LIMA CARDOSO
 ### THALIEL DA SILVA XAVIER
+[Atividade I](https://github.com/ThalesDeMileto/Projeto-Integrador-II.git)
+
+[Atividade II](https://github.com/ThalesDeMileto/Wello-Word.git)
+
+[Atividade III](https://github.com/ThalesDeMileto/Projeto_IntegradorII.git)
+
 ### WESLEY KAINAN DE SOUZA OLIVEIRA
 ### YASMIM LUCAS BARBOSA
 			   
