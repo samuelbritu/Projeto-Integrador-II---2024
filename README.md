@@ -116,7 +116,7 @@ Criar um repositório com o mesmo nome da pasta.
 
 
 
-## Atividade avaliativa: Criar Currículo
+## Atividade I - Criar Currículo
 
 1. Currículo acadêmico
 
@@ -148,11 +148,13 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	
 	3.2 Salvar na mesma pasta todos os documentos acadêmicos, como certificados, entre outros
 
-## Atividade avaliativa 
+## Atividade II - Seguir tutorial para aprender fluxo de trabalho
 
 1. Criar repositório Wello Word pelo GitHub
 
 	1.2 Seguir o tutorial [Olá, Mundo](https://docs.github.com/pt/get-started/start-your-journey/hello-world) para criar um projeto como projeto Olá, Mundo, como descrito.
+
+## Atividade III - Criar repositório com exemplos de arquivos do Office
 
 2. Criar repositório exemplos de arquivos do Office 
 
@@ -181,21 +183,9 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	2.5 Criar arquivo de text.
 	
 	2.6 Todos os arquivos trararão do mesmo tema.
-	
-	
-# Deadlines
 
-## Primeira etapa 
 
-> Data de entrega: 16/04
-
-## Segunda etapa
-
- Data de entrega: 04 de setembro
-
-1. Completar e corrigir erros da atividade anterior:
-
-2. Finalizar atividade GitFlow iniciada em aula - Tutorial 'Olá Mundo';
+> resumo da atividade III:
 
 3. Criar repositório: Projeto Exemplos Office contendo:
 		   
@@ -213,8 +203,37 @@ ou
 			   
 '<img src="URL_da_Imagem" alt="Texto Alternativo">'
 
+4. Fork e pull request
+
+4.1 Crie um Fork do repositório
+
+4.2 Adicione, abaixo do seu nome, o endereço dos seus três repositórios, conforme solicitações acima.
+
+4.3 Envie um pull request ao proprietário do projeto (este).
 
 
+# Projetos dos alunos
 
-
+## ALINE XAVIER MORAES
+## ANA LUIZA CARANHA DA SILVA
+## CINDY LAUREN DE SOUZA FEITOZA
+## DANIELE INACIO LOPES
+## HERBERT NATAN ALVES DE SOUZA
+## JOAO ANTONIO FAUSTINO DE BARROS
+## JOAO GABRIEL CAVALCANTE LEITAO
+## JOAO LUCAS CUNHA DA COSTA
+## JUNIOR ALMEIDA DAS CHAGAS
+## LAISSA ALCANTARA GOMES
+## LARIANE PEREIRA DE ARAUJO
+## LEOSMARA COLAÇO MINELVINO
+## MARIA ITAUANA DE ALMEIDA SARAIVA
+## MURILO GABRIEL DA SILVA ARAUJO
+## OLIVER BRYAN CAVALCANTE GUILHERME
+## PEDRO RENNECK DE SOUZA
+## RILARY CAVALCANTE DE SOUZA
+## RITA DE CASSIA ALVES GOIANO
+## SAMUEL BRITO DE LIMA CARDOSO
+## THALIEL DA SILVA XAVIER
+## WESLEY KAINAN DE SOUZA OLIVEIRA
+## YASMIM LUCAS BARBOSA
 			   
