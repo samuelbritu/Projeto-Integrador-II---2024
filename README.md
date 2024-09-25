@@ -177,7 +177,7 @@ Criar um perfil no [Linkedin](https://br.linkedin.com/)
 	2.6 Todos os arquivos trararão do mesmo tema.
 
 
-### resumo da atividade III:
+### Resumo da atividade III:
 
 O Repositório deve conter:
 		   
@@ -199,19 +199,22 @@ ou
 ```			   
 <img src="URL_da_Imagem" alt="Texto Alternativo">
 ```
+## Atividade IV : fork e pull request
 
-4. Fork e pull request
+1. Crie um Fork do repositório;
 
-4.1 Crie um Fork do repositório
+2. Adicione, abaixo do seu nome, o endereço dos seus três repositórios, conforme solicitações acima.
 
-4.2 Adicione, abaixo do seu nome, o endereço dos seus três repositórios, conforme solicitações acima.
-
-4.3 Envie um pull request ao proprietário do projeto (este).
+3. Envie um pull request ao proprietário do projeto (este).
 
 
 ## Projetos dos alunos
 
 ### ALINE XAVIER MORAES
+
+
+[Atividade I](https://github.com/4L1N3X4V13R/ProjetoIntegrador2.git)
+
 ### ANA LUIZA CARANHA DA SILVA
 ### CINDY LAUREN DE SOUZA FEITOZA
 ### DANIELE INACIO LOPES
@@ -234,3 +237,4 @@ ou
 ### WESLEY KAINAN DE SOUZA OLIVEIRA
 ### YASMIM LUCAS BARBOSA
 			   
+	
