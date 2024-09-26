@@ -251,7 +251,7 @@ ou
 ### RILARY CAVALCANTE DE SOUZA
 ### RITA DE CASSIA ALVES GOIANO
 ### SAMUEL BRITO DE LIMA CARDOSO
-[Atvidade I] (https://github.com/samuelbritu/Projeto-Integrador-II.git)
+[Atvidade I](https://github.com/samuelbritu/Projeto-Integrador-II.git)
 [Atividade II](https://github.com/samuelbritu/hello-world.git)
 ### THALIEL DA SILVA XAVIER
 [Atividade I](https://github.com/ThalesDeMileto/Projeto-Integrador-II.git)
