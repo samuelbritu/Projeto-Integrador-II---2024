@@ -254,6 +254,7 @@ ou
 ### RITA DE CASSIA ALVES GOIANO
 ### SAMUEL BRITO DE LIMA CARDOSO
 [Atvidade I](https://github.com/samuelbritu/Projeto-Integrador-II.git)
+[Atividade III](https://github.com/samuelbritu/Atividade-III/tree/main)
 
 [Atividade II](https://github.com/samuelbritu/hello-world.git)
 ### THALIEL DA SILVA XAVIER
