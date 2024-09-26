@@ -259,7 +259,6 @@ ou
 
 [Atividade III](https://github.com/samuelbritu/Atividade-III/tree/main)
 
-[Atividade II](https://github.com/samuelbritu/hello-world.git)
 ### THALIEL DA SILVA XAVIER
 [Atividade I](https://github.com/ThalesDeMileto/Projeto-Integrador-II.git)
 
