@@ -245,13 +245,16 @@ ou
 ### MURILO GABRIEL DA SILVA ARAUJO
 ### OLIVER BRYAN CAVALCANTE GUILHERME
 [AtividadeI](https://github.com/OliverBryanCavalcante/projeto-integrador-2-)
+
 [AtvidadeII](https://github.com/OliverBryanCavalcante/hello-word-)
+
 [AtividadeIII](https://github.com/OliverBryanCavalcante/Exemplos-do-Office)
 ### PEDRO RENNECK DE SOUZA
 ### RILARY CAVALCANTE DE SOUZA
 ### RITA DE CASSIA ALVES GOIANO
 ### SAMUEL BRITO DE LIMA CARDOSO
 [Atvidade I](https://github.com/samuelbritu/Projeto-Integrador-II.git)
+
 [Atividade II](https://github.com/samuelbritu/hello-world.git)
 ### THALIEL DA SILVA XAVIER
 [Atividade I](https://github.com/ThalesDeMileto/Projeto-Integrador-II.git)
